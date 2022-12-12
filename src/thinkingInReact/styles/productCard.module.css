@@ -1,0 +1,21 @@
+.productTable
+{
+    min-width:90vmin;
+    height:auto;
+    padding: 2rem 0px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    align-items: center;
+}
+.table
+{
+    display: flex;
+    gap: 15vmin;
+
+}
+h1
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
